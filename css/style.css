@@ -1,0 +1,17 @@
+*{
+margin:0;
+padding:0;
+box-sizing:border-box;
+}
+.accordion-button:not(.collapsed){
+	color:red !important;
+}
+img{
+	width:100%;
+}
+.col-2{
+	gap:100px;
+}
+.col-3 p{
+	text-align:center;
+}
